@@ -1,4 +1,4 @@
-# 🎁 Desafio do Amigo Secreto
+# Desafio do Amigo Secreto
 
 Esse projeto faz parte do curso de logica de programação com javascript da Alura em parceria com o ONE(Oracle Next Education).
 
@@ -31,4 +31,7 @@ Esse projeto faz parte do curso de logica de programação com javascript da Alu
 - Após o sorteio, a interface é bloqueada para garantir a integridade do resultado.
 - Para reiniciar, basta recarregar a pagina.
 
+## 🚀 Link do projeto
+
+[🔗 Acesse o projeto no Vercel](https://desafio-amigo-secreto-six.vercel.app/)
 
