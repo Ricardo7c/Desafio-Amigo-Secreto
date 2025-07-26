@@ -15,7 +15,6 @@ Esse projeto faz parte do curso de logica de programação com javascript da Alu
 > - Condicionais
 >
 
----
 
 ## 🛠️ Funcionalidades implementadas
 
@@ -24,7 +23,6 @@ Esse projeto faz parte do curso de logica de programação com javascript da Alu
 - ✅ Exibir o resultado na tela
 - ✅ Desabilitar os botões e o input após o resultado do sorteio.
 
----
 
 ## 🧩 Lógica implementada
 
